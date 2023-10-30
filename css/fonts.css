@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Carbona";
+    src: url("../fonts/Carbona-Bold.woff2") format("woff2"), url("../fonts/Carbona-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Carbona";
+    src: url("../fonts/Carbona-Black.woff2") format("woff2"), url("../fonts/Carbona-Black.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Carbona";
+    src: url("../fonts/Carbona-Medium.woff2") format("woff2"), url("../fonts/Carbona-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "CarbonaVariableW05";
+    src: url("../fonts/CarbonaVariableW05-Regular.woff2") format("woff2"), url("../fonts/CarbonaVariableW05-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
